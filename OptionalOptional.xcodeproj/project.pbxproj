@@ -11,6 +11,7 @@
 		1BE07A112ADEAB1300BEEFA8 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BE07A102ADEAB1300BEEFA8 /* ContentView.swift */; };
 		1BE07A132ADEAB1400BEEFA8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1BE07A122ADEAB1400BEEFA8 /* Assets.xcassets */; };
 		1BE07A162ADEAB1400BEEFA8 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1BE07A152ADEAB1400BEEFA8 /* Preview Assets.xcassets */; };
+		1BE07A1D2ADEABD600BEEFA8 /* CompletionView_Yup.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BE07A1C2ADEABD600BEEFA8 /* CompletionView_Yup.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		1BE07A102ADEAB1300BEEFA8 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		1BE07A122ADEAB1400BEEFA8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1BE07A152ADEAB1400BEEFA8 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		1BE07A1C2ADEABD600BEEFA8 /* CompletionView_Yup.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CompletionView_Yup.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				1BE07A0E2ADEAB1300BEEFA8 /* OptionalOptionalApp.swift */,
 				1BE07A102ADEAB1300BEEFA8 /* ContentView.swift */,
+				1BE07A1C2ADEABD600BEEFA8 /* CompletionView_Yup.swift */,
 				1BE07A122ADEAB1400BEEFA8 /* Assets.xcassets */,
 				1BE07A142ADEAB1400BEEFA8 /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1BE07A112ADEAB1300BEEFA8 /* ContentView.swift in Sources */,
+				1BE07A1D2ADEABD600BEEFA8 /* CompletionView_Yup.swift in Sources */,
 				1BE07A0F2ADEAB1300BEEFA8 /* OptionalOptionalApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
